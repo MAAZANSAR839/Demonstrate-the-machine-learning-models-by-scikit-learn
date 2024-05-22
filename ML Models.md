@@ -1,0 +1,1 @@
+I demonstrated the basics of machine learning models using scikit-learn. This project covers key concepts such as data preprocessing, model selection, training, and evaluation. It includes examples of various models like linear regression, decision trees, and K-means clustering, with visualizations to illustrate how these algorithms work on different datasets.
